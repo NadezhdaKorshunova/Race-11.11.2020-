@@ -71,11 +71,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "icon_76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
+      "filename" : "icon_152.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
